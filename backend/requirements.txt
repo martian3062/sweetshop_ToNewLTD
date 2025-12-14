@@ -1,0 +1,15 @@
+Django>=5.0
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+psycopg2-binary
+dj-database-url
+
+pytest
+pytest-django
+pytest-cov
+factory-boy
+faker
+
+drf-spectacular
+python-dotenv
