@@ -91,8 +91,7 @@ frontend/
 └── package.json
 
 🔑 Backend API Endpoints
-Base URL
-http://127.0.0.1:8000/api/
+
 
 Authentication APIs
 Method	Endpoint	Description
@@ -122,9 +121,6 @@ npm install
 npm run dev
 
 
-Open in browser:
-
-http://localhost:5173
 
 🔐 Authentication Flow
 Step	Action
